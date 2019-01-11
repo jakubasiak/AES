@@ -1,0 +1,14 @@
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.exe
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.deps.json
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.runtimeconfig.json
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.runtimeconfig.dev.json
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.dll
+D:\Source\Private\Aes\bin\Release\netcoreapp2.0\win10-x64\Aes.pdb
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.csprojAssemblyReference.cache
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.csproj.CoreCompileInputs.cache
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.AssemblyInfoInputs.cache
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.AssemblyInfo.cs
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.dll
+D:\Source\Private\Aes\obj\Release\netcoreapp2.0\win10-x64\Aes.pdb

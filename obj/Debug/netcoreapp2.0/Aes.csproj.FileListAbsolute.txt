@@ -1,0 +1,11 @@
+D:\Source\Private\Aes\bin\Debug\netcoreapp2.0\Aes.deps.json
+D:\Source\Private\Aes\bin\Debug\netcoreapp2.0\Aes.runtimeconfig.json
+D:\Source\Private\Aes\bin\Debug\netcoreapp2.0\Aes.runtimeconfig.dev.json
+D:\Source\Private\Aes\bin\Debug\netcoreapp2.0\Aes.dll
+D:\Source\Private\Aes\bin\Debug\netcoreapp2.0\Aes.pdb
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.csproj.CoreCompileInputs.cache
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.AssemblyInfoInputs.cache
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.AssemblyInfo.cs
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.dll
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.pdb
+D:\Source\Private\Aes\obj\Debug\netcoreapp2.0\Aes.csprojAssemblyReference.cache
